@@ -1,0 +1,26 @@
+_repo: Twelve-Preludes-for-the-Pianoforte-Op.-25--I.-Prelude-in-F-Major_31606
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wright, N. Louise (Nannie Louise)
+    alias: Wright, Nannie Louise
+    birthdate: 1879
+    gutenberg_agent_id: '35355'
+    url: http://www.gutenberg.org/2009/agents/35355
+description: ''
+gutenberg_issued: '2010-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Piano music'
+- !lcc 'M'
+title: 'Twelve Preludes for the Pianoforte Op. 25: I. Prelude in F Major'
+url: http://www.gutenberg.org/ebooks/31606
